@@ -1,0 +1,16 @@
+body > form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+}
+
+ul {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
